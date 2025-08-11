@@ -46,12 +46,12 @@ pip freeze > requirements.txt
 
 ### **Attrition Prediction Dashboard**
 ```bash
-streamlit run atdash.py
+streamlit run attrition.py
 ```
 
 ### **Performance Rating Prediction Dashboard**
 ```bash
-streamlit run prdash.py
+streamlit run performance.py
 ```
 
 Once started, Streamlit will provide a **local URL** (usually `http://localhost:8501`) where you can interact with the app.
