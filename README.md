@@ -14,8 +14,8 @@ The models are trained on HR analytics data with preprocessing and feature engin
 .
 ├── attrition.ipynb               # Jupyter Notebook for Attrition Model training & preprocessing
 ├── perf_rate.ipynb               # Jupyter Notebook for Performance Rating Model training & preprocessing
-├── atdash.py                     # Streamlit dashboard for Attrition prediction
-├── prdash.py                     # Streamlit dashboard for Performance Rating prediction
+├── attrition.py                     # Streamlit dashboard for Attrition prediction
+├── performance.py                     # Streamlit dashboard for Performance Rating prediction
 ├── logistic_regression_model.pkl # Trained Logistic Regression model for attrition
 ├── random_forest_model.pkl       # Trained Random Forest model for attrition
 ├── performance_rating_model.pkl  # Trained Logistic Regression model for performance rating
